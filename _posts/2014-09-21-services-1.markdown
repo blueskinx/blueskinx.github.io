@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Approach
+description:
+---
+Apply design thinking to deliver solutions served your needs.
